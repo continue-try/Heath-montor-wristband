@@ -138,5 +138,5 @@ ErrorStatus HRCalculate(u8 *peakdis, u8 pnuma, u8 posize, u16 samplefre)
 }
 void SPO2Calculate(u8 *peakdis, u8 pnuma, u8 *peakdis_, u8 pnuma_, u8 posize)
 {
-	
+	int16_t i;	
 }
